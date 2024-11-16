@@ -27,7 +27,6 @@
       "url": "https://barzan.liara.run/v3.json"
     }
   },
-  "sprite": "https://github.com/ali-kzi/tiles/blob/main/sprite",
   "glyphs": "https://barzan.liara.run/fonts/{fontstack}/{range}.pbf",
   "layers": [
     {
